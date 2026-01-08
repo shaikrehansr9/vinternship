@@ -1,10 +1,10 @@
 ---
 layout: project
 title: Vi-SlideS
-order: 6
+order: 7
 summary: AI-powered adaptive classroom platform that tailors teaching based on student questions and cognitive analysis
 color: "FFFF00"
-repo: "vicharanashala/"
+repo: "vicharanashala/vi-slides"
 features: []
 ---
 
@@ -40,7 +40,7 @@ Vi-SlideS transforms traditional lectures into question-driven, adaptive learnin
 
 ## **GitHub Repository**
 
-[Vi-SlideS(TBD)](https://github.com/{{ page.repo }}){:target="_blank"}
+[Vi-SlideS](https://github.com/{{ page.repo }}){:target="_blank"}
 
 {% if page.features.size > 0 %}
 ## **Upcoming Features**
