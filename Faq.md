@@ -291,13 +291,23 @@ If you're facing profile picture issues, try these troubleshooting steps:
 - This may be due to your **data center being mapped to US instead of India**
 - Send an email with detailed issue description to: **support@zohocliq.com**
 
-**8.7 How do I join the Cliq channels with my college mail ID?**  
+**8.7 Why is it mandatory to update my Display Picture (DP)?**
+Updating your DP with a clear photo of your face helps establish your identity in the community. This reduces risks such as impersonation, cyberbullying, and misuse of the platform, similar to showing an ID card in a physical organization.
+
+  **8.7.1 What kind of Display Picture is allowed?**
+  ->Only original photographs clearly showing your face are allowed.
+  ->GenAI-generated images, avatars, cartoons, logos, or group photos are not permitted.
+
+  **8.7.2 What is the penalty for posting messages without an updated DP?**
+  ->From now on, posting any message without a compliant DP will result in an immediate –10% HP deduction.
+  ->In addition to the immediate –10% HP deduction for posting, there will be an additional daily –10% HP deduction for continued non-compliance.
+  
+**8.8 How do I join the Cliq channels with my college mail ID?**  
 
 Follow these steps to join the internship channels using your college email:
 
 1. **Create an account** on Zoho Cliq using your **COLLEGE MAIL ID**
 2. Access your **college mail inbox** and accept the request to join the **pinternship channels**
-
 Make sure to use your college email ID throughout the process to ensure proper access and identification.
 
 ---
