@@ -63,7 +63,7 @@ Your performance is evaluated based on consistent progress, quality of work, and
 
 ## Getting Started
 
-To begin tracking your progress on the [Dashboards](../dashboard.html):
+To begin tracking your progress on the Dashboards:
 1. Start with ViBe training modules
 2. Progress to case studies after building fundamentals
 3. Move to projects once core concepts are solidified
